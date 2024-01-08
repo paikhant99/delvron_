@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name" : "Admin",
+      "password" : "delvron",
+      "company_access_permission" : "ALL"
+    },
+    {
+      "name" : "Sales",
+      "password" : "",
+      "company_access_permission" : "READ"
+    }
+  ],
+  "start_order_id" : 0,
+  "language" : "ENG"
+}
